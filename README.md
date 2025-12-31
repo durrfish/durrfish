@@ -1,5 +1,5 @@
 ## durrfish lore
-![image alt](https://github.com/durrfish/durrfishlore/blob/dfc236230fab37fb2bb7222803c693928e72643b/durrfishlore.png)
+the image will be back here soon
 <!--
 **durrfish/durrfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
